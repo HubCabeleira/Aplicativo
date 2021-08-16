@@ -1,0 +1,56 @@
+                                            Atividade
+                                    4 Commit Persistência Local
+
+Produção textual discertando as definições junto aos exemplos
+
+1º) Exemplos:
+
+Um.dart;
+  void main(){  
+    BuscarDados();
+    print("CARREGAR A TELA");
+    print("CARREGAR OS BOTÕES");
+    print("CARREGAR OS CAMPOS");
+    print("CARREGAR A IMAGEM");
+  }
+    BuscarDados(){
+      print("SINCRONAMENTE EXECULTE PARA: ");
+    }
+
+Dois.dart;
+  void main(){  
+    BuscarDados();
+      print("CARREGAR A TELA");
+      print("CARREGAR OS BOTÕES");
+      print("CARREGAR OS CAMPOS");
+      print("CARREGAR A IMAGEM");
+  }    
+    Future BuscarDados(){
+      return Future.delayed(secunds:8), () => print("CARREGOU OS DADOS...");
+  }
+  
+Tres.dart;
+  void main() Async{  
+    Awayt BuscarDados();
+      print("CARREGAR A TELA");
+      print("CARREGAR OS BOTÕES");
+      print("CARREGAR CAMPOS");
+      print("CARREGAR IMAGEM");
+  }
+
+ Future BuscarDados(){
+      return Future.delayed(secunds:15), () => print("CARREGARÃO OS DADOS...");
+ } 
+
+
+2º) Definição :
+
+  a) Future: é a classe que nós permite buscar os dados em um momento definindo. Gerando possivelmente até um intervalo de tempo de execução entre as tarefas.
+
+  b) Await: Ajuda a definir o tempo de execução das funções e para isso sinalizamos a função com uma palavra reservada, mágica, especial, uma váriavel da linguagem. 
+
+  c) Async: É o sinilizador das funções assíncronas aquele que a defini permintindo que façamos determinidas atribuições ao método ou procedimento que caracterizará a função. 
+
+3º) Utilidade:
+ Programação assíncrona pode ser percebida como a possibilidade do programa de carregar diversar tarefas ao mesmo tempo, neste caso, segundo os exemplos temos a possibilidade de buscar dados e carregar a tela junto as imagens e os campos.
+ Isto impede a ocorrência de erro e também evita o desperdício do recursos. 
