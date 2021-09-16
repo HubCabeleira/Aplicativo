@@ -1,4 +1,4 @@
-import 'package:agenda_crud/app/database/script.dart';
+import 'package:agenda_crud/app/database/sqlite/script.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
 import 'dart:async';
@@ -7,15 +7,15 @@ class Connection {
   static Database db;
   static Future<Database> get() async {
     if (db == null) {
-      String path = join(await getDatabasesPath(), 'banco');
-      Database db = await openDatabase(
+      var path = join(await getDatabasesPath(), 'banco');
+      db = await openDatabase(
         path,
         version: 1,
-        onCreate: (db, v) {
-          db.execute(createTable);
-          db.execute(insert1);
-          db.execute(insert2);
-          db.execute(insert3);
+        onCreate: (dbs, v) {
+          dbs.execute(createTable);
+          dbs.execute(insert1);
+          dbs.execute(insert2);
+          dbs.execute(insert3);
         },
       );
     }
