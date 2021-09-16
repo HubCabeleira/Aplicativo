@@ -5,7 +5,7 @@ class formularioContatos extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Cadaster Contate'),
+        title: Text('Cadaster Contact'),
       ),
     );
   }

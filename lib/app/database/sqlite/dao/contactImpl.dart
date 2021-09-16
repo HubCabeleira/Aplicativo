@@ -19,7 +19,7 @@ class ContactImple implements ContactDAO {
   }
 
   @override
-  remove(int id) async {
+  remove(dynamic id) async {
     //TODO: implement find
     _db = await Connection.get();
     var sql = 'DELETE FROM contact WHERE id = ?';

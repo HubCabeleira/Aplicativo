@@ -1,6 +1,6 @@
 final createTable = '''
   CREATE TABLE contact(
-    id INT PRIMARY KEY
+    id INTEGER NOT NULL PRIMARY KEY
     ,nomes VARCHAR(100) NOT NULL
     ,numeros CHAR(16) NOT NULL
     ,email VARCHAR(200) NOT NULL

@@ -5,9 +5,11 @@ import 'dart:async';
 
 class Connection {
   static Database db;
+
   static Future<Database> get() async {
     if (db == null) {
       var path = join(await getDatabasesPath(), 'banco');
+      deleteDatabase(path);
       db = await openDatabase(
         path,
         version: 1,
