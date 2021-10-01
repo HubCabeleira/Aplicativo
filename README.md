@@ -82,23 +82,23 @@ Curso Flutter - CRUD completo com SQLITE/mobx adotando entidade/serviço/reposit
 
 <hr/>
 <h3>Definindo Formulário</h3> 
-Projeto inicial: https://github.com/heliokamakawa/agenda_crud/tree/d1bbea66f115cb80b51fd0ee106be5c63ee086f5  <br>
-Projeto final: https://github.com/heliokamakawa/agenda_crud/tree/8801a32f985ce8357edf9df966ef6e75555d84e8  <br>
+Projeto inicial: <A HERF="https://github.com/heliokamakawa/agenda_crud/tree/d1bbea66f115cb80b51fd0ee106be5c63ee086f5">aqui</A><br>
+Projeto final: <A HERF="https://github.com/heliokamakawa/agenda_crud/tree/8801a32f985ce8357edf9df966ef6e75555d84e8">aqui</A><br>
 aula como pegar o projeto no GitHub: https://www.youtube.com/watch?v=fOls6oc9ihU <br>
 Link videoaula: https://youtu.be/noTTFa3RCOI 
 
 <hr/>
 <h3>Definindo o Back do Formulário</h3> 
-Projeto inicial: https://github.com/heliokamakawa/agenda_crud/tree/8801a32f985ce8357edf9df966ef6e75555d84e8  <br>
-Projeto final: https://github.com/heliokamakawa/agenda_crud/tree/95152cbacdb64e48975810bdf05883f5235182ab <br>
+Projeto inicial: <A HERF="https://github.com/heliokamakawa/agenda_crud/tree/8801a32f985ce8357edf9df966ef6e75555d84e8">aqui</A><br>
+Projeto final: <A HERF="https://github.com/heliokamakawa/agenda_crud/tree/95152cbacdb64e48975810bdf05883f5235182ab">aqui</A><br>
 aula como pegar o projeto no GitHub: https://www.youtube.com/watch?v=fOls6oc9ihU  <br>
 Link videoaula: https://www.youtube.com/watch?v=lReb_hOfjLE 
 
 
 <hr/>
 <h3>Finalizando o Formulário</h3> 
-Projeto inicial:https://github.com/heliokamakawa/agenda_crud/tree/95152cbacdb64e48975810bdf05883f5235182ab <br>
-Projeto final:https://github.com/heliokamakawa/agenda_crud/tree/805b99d96a5d0f38bdd37d1eabb411f10ecc4ce3 <br>
-aula como pegar o projeto no GitHub: https://www.youtube.com/watch?v=fOls6oc9ihU  <br>
+Projeto inicial <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/95152cbacdb64e48975810bdf05883f5235182ab">aqui</A><br>
+Projeto final <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/805b99d96a5d0f38bdd37d1eabb411f10ecc4ce3">aqui</A><br>
+aula como pegar o projeto no GitHub: https://www.youtube.com/watch?v=fOls6oc9ihU</A><br>
 Link videoaula:https://www.youtube.com/watch?v=t3ZGldO2YrE
 
