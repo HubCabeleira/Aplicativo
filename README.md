@@ -23,7 +23,7 @@ Curso Flutter - CRUD completo com SQLITE/mobx adotando entidade/serviço/reposit
 
 <h3>Definindo Script e a dependência do SQFLite</h3> 
 <p>Acesse o projeto inicial <a href='https://github.com/heliokamakawa/agenda_crud/tree/11fd0a1d1dcbb81da8cbe22a8dc11375478705b6'>aqui</a> </p> 
-<p>Acesse a projeto final de aula <a href='https://github.com/heliokamakawa/agenda_crud/tree/6cbf5f98fda01aeb91fde83c6b92f343d0f009c8'>aqui</a> </p> 
+<p>Acesse a projeto final de aula  <a href='https://github.com/heliokamakawa/agenda_crud/tree/6cbf5f98fda01aeb91fde83c6b92f343d0f009c8'>aqui</a> </p> 
 <p>Link videoaula:https://youtu.be/aLWY7vOv-kw </p>
 <hr/>
 
