@@ -24,13 +24,11 @@ mixin _$ContactListBack on _ContactListBack, Store {
     });
   }
 
-  final _$_ContactListBackActionController =
-      ActionController(name: '_ContactListBack');
+  final _$_ContactListBackActionController = ActionController(name: '_ContactListBack');
 
   @override
   dynamic refreshList([dynamic value]) {
-    final _$actionInfo = _$_ContactListBackActionController.startAction(
-        name: '_ContactListBack.refreshList');
+    final _$actionInfo = _$_ContactListBackActionController.startAction(name: '_ContactListBack.refreshList');
     try {
       return super.refreshList(value);
     } finally {

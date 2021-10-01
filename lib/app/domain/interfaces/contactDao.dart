@@ -1,13 +1,9 @@
-
-
 import 'package:agenda_crud/app/domain/entities/contact.dart';
 
-abstract class ContactDAO{
+abstract class ContactDAO {
+  save(Contact contact);
 
-  save(Contact contact); 
-
-  remove(dynamic id); 
+  remove(dynamic id);
 
   Future<List<Contact>> find();
-
 }
