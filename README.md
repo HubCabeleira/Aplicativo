@@ -83,13 +83,13 @@ Curso Flutter - CRUD completo com SQLITE/mobx adotando entidade/serviço/reposit
 <hr/>
 <h3>Definindo Formulário</h3> 
 <P>Acesse o projeto inicial <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/d1bbea66f115cb80b51fd0ee106be5c63ee086f5">aqui</A></P>
-<P>Projeto final <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/8801a32f985ce8357edf9df966ef6e75555d84e8">aqui</A></P>
+<P>Acesse o projeto final <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/8801a32f985ce8357edf9df966ef6e75555d84e8">aqui</A></P>
 <P>Link videoaula: https://youtu.be/noTTFa3RCOI</P>
 
 <hr/>
 <h3>Definindo o Back do Formulário</h3> 
 <P>Acesse o projeto inicial <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/8801a32f985ce8357edf9df966ef6e75555d84e8">aqui</A><P>
-<P>Projeto final <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/95152cbacdb64e48975810bdf05883f5235182ab">aqui</A><P>
+<P>Acesse o Projeto final <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/95152cbacdb64e48975810bdf05883f5235182ab">aqui</A><P>
 <P>Link videoaula: https://www.youtube.com/watch?v=lReb_hOfjLE<P>
 
 
