@@ -79,39 +79,3 @@ Curso Flutter - CRUD completo com SQLITE/mobx adotando entidade/serviço/reposit
 <p>Acesse o projeto inicial <a href='https://github.com/heliokamakawa/agenda_crud/tree/41ffb9d6f5c7f49769ad29704f17f70ec777d42c'>aqui</a> </p> 
 <p>Acesse o projeto final <a href='https://github.com/heliokamakawa/agenda_crud/tree/d1bbea66f115cb80b51fd0ee106be5c63ee086f5'>aqui</a> </p> 
 <p>Link videoaula: https://www.youtube.com/watch?v=4VRYaBH2w68</p>
-<hr/>
-<h3>Definindo Formulário</h3> 
-<P>Acesse o projeto inicial <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/d1bbea66f115cb80b51fd0ee106be5c63ee086f5">aqui</A></P>
-<P>Acesse o projeto final <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/8801a32f985ce8357edf9df966ef6e75555d84e8">aqui</A></P>
-<P>Link videoaula: https://youtu.be/noTTFa3RCOI</P>
-
-<hr/>
-<h3>Definindo o Back do Formulário</h3> 
-<P>Acesse o projeto inicial <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/8801a32f985ce8357edf9df966ef6e75555d84e8">aqui</A><P>
-<P>Acesse o Projeto final <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/95152cbacdb64e48975810bdf05883f5235182ab">aqui</A><P>
-<P>Link videoaula: https://www.youtube.com/watch?v=lReb_hOfjLE<P>
-
-<hr/>
-<h3>Finalizando o Formulário</h3> 
-<P>Acesse o projeto inicial <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/95152cbacdb64e48975810bdf05883f5235182ab">aqui</A></P>
-<P>Acesse o projeto final <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/805b99d96a5d0f38bdd37d1eabb411f10ecc4ce3">aqui</A></P>
-<P>Link videoaula: https://www.youtube.com/watch?v=t3ZGldO2YrE</P>
-
-<hr/>
-<h3>Corrigindo erros</h3> 
-<P>Acesse o projeto inicial <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/805b99d96a5d0f38bdd37d1eabb411f10ecc4ce3">aqui</A></P>
-<P>Acesse o projeto final <A HREF=" https://github.com/heliokamakawa/agenda_crud/tree/bed0228d2506584936a5e73c7d30be58dd5b96cd">aqui</A></P>
-<P>Link videoaula: https://www.youtube.com/watch?v=sZBJun7oU-o</P>
-
-<hr/>
-<h3>Detalhes do Contato</h3> 
-<P>Acesse o projeto inicial <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/bed0228d2506584936a5e73c7d30be58dd5b96cd">aqui</A><P>
-<P>Acesse o Projeto final <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/fa95a4da4b48410243bc8955c9c0fa56f3a74237">aqui</A><P>
-<P>Link videoaula: https://www.youtube.com/watch?v=CfWq7_cTd0A<P>
-
-
-<hr/>
-<h3>Chamando app externa (Telefone, SMS, E-mail)</h3> 
-<P>Acesse o projeto inicial <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/fa95a4da4b48410243bc8955c9c0fa56f3a74237">aqui</A></P>
-<P>Acesse o projeto final <A HREF="https://github.com/heliokamakawa/agenda_crud/tree/00509fc0202babb66bc03de6b91d8150763c8409">aqui</A></P>
-<P>Link videoaula:https://www.youtube.com/watch?v=EKl-hduHxFA</P>
