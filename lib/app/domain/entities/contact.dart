@@ -1,5 +1,5 @@
 class Contact {
-  int id;
+  dynamic id;
   String nomes;
   String numeros;
   String email;

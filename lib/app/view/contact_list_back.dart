@@ -31,7 +31,7 @@ abstract class _ContactListBack with Store {
     Navigator.of(context).pushNamed(MyApp.DETALHES, arguments: contact);
   }
 
-  remove(int id) {
+  remove(dynamic id) {
     _service.remove(id);
     refreshList();
   }
